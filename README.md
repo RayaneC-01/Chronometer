@@ -2,8 +2,6 @@
 
 Un simple chronomètre avec affichage des heures, minutes, secondes et millisecondes, conçu en HTML, CSS et JavaScript.
 
-![Chronomètre](![Resultat du Chronomètre](resultat_code.png))
-
 ## Fonctionnalités
 
 - Démarrez le chronomètre en appuyant sur le bouton "Start".
@@ -13,12 +11,25 @@ Un simple chronomètre avec affichage des heures, minutes, secondes et milliseco
 
 ## Aperçu
 
-Vous pouvez voir une démo en direct du chronomètre [ici](https://example.com).
+(![Resultat du Chronomètre](Image/resultat_code.png))
 
 
 ## Installation
 
-1. Clonez ce dépôt :
+1. Clonez ce dépôt  :
 
    ```bash
    git clone https://github.com/votre-utilisateur/chronometre.git
+
+2. Ouvrez le fichier index.html dans votre navigateur web.
+
+## Utilisation
+
+- Appuyez sur le bouton **Start** pour Démarrer le chronomètre.
+- Pour mettre le chronomètre en pause, appuyez sur le bouton **Pause**.
+- Pour réinitialiser le chronomètre, appuyez sur le bouton  **Reset**.
+
+
+## Author
+
+[Rayane](https://github.com/RayaneC-01)
