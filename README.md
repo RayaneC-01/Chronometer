@@ -11,7 +11,7 @@ Un simple chronomètre avec affichage des heures, minutes, secondes et milliseco
 
 ## Aperçu
 
-(![Resultat du Chronomètre](Image/resultat_code.png))
+![Resultat du Chronomètre](Image/resultat_code.png)
 
 
 ## Installation
